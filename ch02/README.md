@@ -32,3 +32,22 @@
 
 ![스크린샷 2021-10-11 오후 7 43 13](https://user-images.githubusercontent.com/18282470/136777442-980ca1f3-a61f-4c03-af9b-c2556029fb9b.png)
 > 여기서 Lambda에 SNS를 붙인 이유는 이미지를 빌드하는 시간동안 클라이언트가 기달려야 하기때문에 이것을 비동기적으로 처리하기 위해서 알람을 통해서 아키텍쳐를 구성하였다.
+
+## 실습환경 준비
+- AWS 가입하기
+  * 홈페이지 접속 -> 계정생성 클릭 -> 개인계정 선택 및 정보입력 -> 결제정보 입력(1달러 추후 취소) -> 기본 계획지원 선택 
+- 개발환경
+  * OS: MAC
+  * Language: Python 3.7
+  * IDE: VSCode
+  * AWS CLI
+  * Docker
+``` bash
+yum install
+yum install python3
+pip install virtualenv
+mkdir venv && cd venv
+virtualenv -p /usr/bin/python3 py37
+source {path} activate
+pip install awscli
+```

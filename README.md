@@ -22,3 +22,4 @@ aws 서버리스 프로젝트에 대한 저장소입니다.
 - Lambda 함수 작성 C - Lambda Layer 패키지 작성방법
 - Lambda 함수 작성 D - 참가증 이미지 만들기
 - API Gateway와 Lambda 싱크 (GET)
+- API Gateway와 Lambda 싱크 (POST)

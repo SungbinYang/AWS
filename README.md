@@ -20,3 +20,4 @@ aws 서버리스 프로젝트에 대한 저장소입니다.
 - Lambda 함수 작성 A - 데이터 읽기
 - Lambda 함수 작성 B - 데이터 삽입
 - Lambda 함수 작성 C - Lambda Layer 패키지 작성방법
+- Lambda 함수 작성 D - 참가증 이미지 만들기

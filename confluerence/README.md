@@ -8,5 +8,3 @@
 - Devops: Docker
 - AWS: CloudFront, S3, API Gateway, Lambda, DynamoDB, SNS, EC2
 
-## 배포
-[회의 설문](https://sungbin.s3.ap-northeast-2.amazonaws.com/index.html)

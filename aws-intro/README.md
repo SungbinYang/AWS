@@ -47,3 +47,4 @@
 - [실습] 6. ELB에 HTTPS 설정하기
 - 비용 나가지 않게 ELB 깔끔하게 종료하기
 - [보충 강의] HTTPS 연결 시 ELB vs Nginx, Certbot
+- [보충 강의] Nginx, Certbot을 활용해 HTTPS 연결하기

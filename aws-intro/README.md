@@ -38,3 +38,4 @@
 ## HTTPS 연결하기 (ELB)
 
 - ELB란? / TLS, SSL과 HTTPS
+- ELB를 활용한 아키텍처 구성

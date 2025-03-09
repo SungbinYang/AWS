@@ -45,3 +45,5 @@
 - [실습] 4. ELB에 도메인 연결하기
 - [실습] 5. HTTPS 적용을 위해 인증서 발급받기
 - [실습] 6. ELB에 HTTPS 설정하기
+- 비용 나가지 않게 ELB 깔끔하게 종료하기
+- [보충 강의] HTTPS 연결 시 ELB vs Nginx, Certbot
